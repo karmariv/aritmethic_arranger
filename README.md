@@ -4,6 +4,7 @@ Input
  2 + 3
 
 Output
+
     2
   + 3
  ----- 
