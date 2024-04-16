@@ -1,12 +1,12 @@
 Receives a list of strings which are arithmetic problems, and returns the problems arranged vertically and side-by-side
 
 Input
-> 2 + 3
+ 2 + 3
 
 Output
->   2
->  +3
-> ----- 
+    2
+  + 3
+ ----- 
 
 Notes:
 * Problems should not include more than 5 digits, anything more will return: 'Error: Too many problems.'
