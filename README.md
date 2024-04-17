@@ -1,13 +1,7 @@
 Receives a list of strings which are arithmetic problems, and returns the problems arranged vertically and side-by-side
 
-Input
- 2 + 3
+![image](https://github.com/karmariv/aritmethic_arranger/assets/19791050/c4c48509-8ca3-417a-a2ec-61e30020980d)
 
-Output
-
-    2
-  + 3
- ----- 
 
 Notes:
 * Problems should not include more than 5 digits, anything more will return: 'Error: Too many problems.'
