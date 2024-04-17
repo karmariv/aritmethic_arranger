@@ -8,3 +8,5 @@ Notes:
 * The function only accepts addition and subtraction opertators
 * Each number (operand) should only contain digits
 * Each operand (aka number on each side of the operator) has a max of four digits in width.
+* To test the function run main.py file
+  
