@@ -8,8 +8,7 @@ def arithmetic_arranger(problems):
     line1 = ''
     line2 = ''
     line3 = ''
-    #test = ["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]
-
+    
 
     #get the size of the array
     total_items = len(problems)
