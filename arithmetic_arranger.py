@@ -13,7 +13,7 @@ def arithmetic_arranger(problems):
     #get the size of the array
     total_items = len(problems)
 
-    #Abort if there are more than 5 problems
+    #Abort if there are more than 5 problems 
     if(total_items > 5):
         print("Error: Too many problems")
         return
